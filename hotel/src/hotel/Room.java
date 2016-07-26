@@ -5,7 +5,7 @@ import java.lang.reflect.Array;
 public class Room {
 	private String name;
 	private double price;
-	private int quantity;
+	private int number;
 	private boolean availability;
 	
 Array[][] room=new Array[5][5];
