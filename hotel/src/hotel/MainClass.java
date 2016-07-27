@@ -8,8 +8,7 @@ public class MainClass {
 		
 		Room room2 = new Room("Single", 90, 5, true);
 		room2.display();
-		Room room3 = new Room("single",0,0,false);
-		boolean availability;
+				boolean availability;
 				if (availability= false);
 				
 		{
