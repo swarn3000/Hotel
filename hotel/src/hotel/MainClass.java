@@ -8,11 +8,20 @@ public class MainClass {
 		
 		Room room2 = new Room("Single", 90, 5, true);
 		room2.display();
+<<<<<<< HEAD
 	boolean availability;
 	if(availability =false);
 	{
 		System.out.println("No vacancy");
 	}
+=======
+				boolean availability;
+				if (availability= false);
+				
+		{
+			System.out.println("the rooms are full");
+		}
+>>>>>>> branch 'master' of https://github.com/tejagudipati/Asssignment1.git
 	}
 
 }

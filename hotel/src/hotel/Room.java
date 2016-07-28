@@ -10,7 +10,7 @@ public class Room {
 	
 Array[][] room=new Array[5][5];
 
-public Room(String name, double price, int quantity, boolean availability) {
+public Room(String name, double price, int quantity , boolean availability) {
 	super();
 	this.name = name;
 	this.price = price;
