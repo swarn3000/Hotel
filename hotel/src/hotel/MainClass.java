@@ -8,6 +8,11 @@ public class MainClass {
 		
 		Room room2 = new Room("Single", 90, 5, true);
 		room2.display();
+	boolean availability;
+	if(availability =false);
+	{
+		System.out.println("No vacancy");
+	}
 	}
 
 }
